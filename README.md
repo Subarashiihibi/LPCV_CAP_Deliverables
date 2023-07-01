@@ -1,14 +1,13 @@
-# LPCV_CAP_Deliverables
+# Low-Power Computer Vision Pedestrian Counting CAPSTONE program
 
-# Introduction
+## Introduction
 
+## Data Collection
 
-# Data Collection
+## SOTA Model Comparison
 
+## Dashboard Making 
 
-# SOTA Model Comparison
-
-
-# Dashboard Making
+## 
 
 
