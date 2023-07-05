@@ -6,13 +6,19 @@ This repository contains the code and documentation for the Low-Power Computer-V
 
 The utilization of computer vision techniques for pedestrian counting presents an imperative tool for city planners and management agencies to comprehend pedestrian flows. This data facilitates informed decision-making processes and aids in averting crowd-related incidents. The information gained through computer vision monitoring also provides invaluable insights for market research by assessing the flow and busyness of commercial areas. Moreover, a real-time pedestrian counting system can optimize urban layout and enhance public transportation systems. The deployment of advanced computer vision techniques for pedestrian counting provides a path for long-term benefits.
 
+![Data](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/device.jpeg "Coral Dev and Camera")
+
 ## Data
 
 The data collection methodology for this research project is comprehensive and built upon the principles applied in similar research endeavors. The selection of data collection locations was guided by strategic location selection processes inspired by previous research. Pedestrian dynamics models, including statistical-physical approaches such as fluid dynamics, gas dynamics, and social force models, were taken into account to choose busier neighborhood entrances for data collection.
 
 The data collection locations were selected based on considerations of land use, population density, and specific requirements for the shooting environment. The chosen locations include Elmer Holmes Bobst Library, 370 Jay Street, John A. Paulson Center, and Whole Foods Market at 4 Union Square South. These locations provide essential geographical and demographic data that enhance the precision of pedestrian traffic simulations and analysis.
 
+![locations](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/spots.png "Locations")
+
 Data collection was carried out continuously for a month at the selected locations, from 10 a.m. to 8 p.m. Videos were captured at frame rates between 15 and 30 FPS and at a resolution of 640 x 480 pixels. The data collection apparatus comprised an edge device (Coral Dev Board), a USB camera, a power source, and data cables. Data was directly saved on the board, creating CSV files for subsequent analysis.
+
+![Data](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/video.jpeg "Video Sample")
 
 ## Data Ethics
 
@@ -31,6 +37,8 @@ To assess the performance of the algorithm, a comparison is made with the State-
 The project includes video recordings captured with the Coral Dev Board, which can be used for testing the effectiveness and performance of the edge device. A comparison is made between the outputs from the LPCV device and the SOTA model to evaluate the accuracy of the algorithm. The results are measured using MAPE to assess the difference between the two series of outputs.
 
 The project also features an LPCV dashboard prototype that provides information on pedestrian counting distribution, location maps, and cumulative pedestrian counting distribution. The dashboard offers a visualization of pedestrian flow patterns and can be further enhanced with real-time data updates from the edge device for more accurate analysis.
+
+![Dashboard](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/dashboard.jpg "Dashboard Prototype")
 
 ## Application
 
