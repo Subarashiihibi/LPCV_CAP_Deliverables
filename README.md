@@ -1,6 +1,7 @@
 #  Low-Power Computer-Vision-based Pedestrian Counting Research
 
-![Dashboard](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/dashboard.jpg "Dashboard Prototype")
+![Dashboard](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/dashboard.jpg)
+ *Dashboard Prototype* [Dashboard](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/dashboard.jpg)
 
 This repository contains the code and documentation for the Low-Power Computer-Vision-based Pedestrian Counting research project. The project aims to develop a low-power computer vision system for accurately counting pedestrians in urban environments. The system utilizes advanced computer vision techniques, including Gaussian Process Regression (GPR) and YOLOv5 object detection, to achieve real-time pedestrian counting with low energy consumption.
 
