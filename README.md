@@ -1,7 +1,7 @@
 #  Low-Power Computer-Vision-based Pedestrian Counting Research
 
 ![Dashboard](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/dashboard.jpg)
- *Dashboard Prototype* [Dashboard](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/dashboard.jpg)
+ *Dashboard Prototype* [Dashboard](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/tableu_html.html)
 
 This repository contains the code and documentation for the Low-Power Computer-Vision-based Pedestrian Counting research project. The project aims to develop a low-power computer vision system for accurately counting pedestrians in urban environments. The system utilizes advanced computer vision techniques, including Gaussian Process Regression (GPR) and YOLOv5 object detection, to achieve real-time pedestrian counting with low energy consumption.
 
@@ -9,7 +9,8 @@ This repository contains the code and documentation for the Low-Power Computer-V
 
 The utilization of computer vision techniques for pedestrian counting presents an imperative tool for city planners and management agencies to comprehend pedestrian flows. This data facilitates informed decision-making processes and aids in averting crowd-related incidents. The information gained through computer vision monitoring also provides invaluable insights for market research by assessing the flow and busyness of commercial areas. Moreover, a real-time pedestrian counting system can optimize urban layout and enhance public transportation systems. The deployment of advanced computer vision techniques for pedestrian counting provides a path for long-term benefits.
 
-![Data](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/device.jpeg "Coral Dev and Camera")
+![Data](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/device.jpeg "Coral Dev and Camera")<br>
+*Coral Device Used for Recording*
 
 ## Data
 
@@ -17,11 +18,13 @@ The data collection methodology for this research project is comprehensive and b
 
 The data collection locations were selected based on considerations of land use, population density, and specific requirements for the shooting environment. The chosen locations include Elmer Holmes Bobst Library, 370 Jay Street, John A. Paulson Center, and Whole Foods Market at 4 Union Square South. These locations provide essential geographical and demographic data that enhance the precision of pedestrian traffic simulations and analysis.
 
-![locations](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/spots.png "Locations")
+![locations](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/spots.png "Locations")<br>
+*Spots for Recording*
 
 Data collection was carried out continuously for a month at the selected locations, from 10 a.m. to 8 p.m. Videos were captured at frame rates between 15 and 30 FPS and at a resolution of 640 x 480 pixels. The data collection apparatus comprised an edge device (Coral Dev Board), a USB camera, a power source, and data cables. Data was directly saved on the board, creating CSV files for subsequent analysis.
 
-![Data](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/video.jpeg "Video Sample")
+![Data](https://github.com/Subarashiihibi/LPCV_CAP_Deliverables/blob/main/img/video.jpeg "Video Sample")<br>
+*Sample Video*
 
 ## Data Ethics
 
